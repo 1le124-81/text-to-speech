@@ -7,6 +7,6 @@ Uses windows SAPI for tts and pythomcom and win32com.client to relay text to it.
 
 The generated voice is then relayed into a voice call through VB-Cable (requires separate downloading). youll also have to change ur microphone (input device) to VB-Cable.
 
-autodeletes text in textbox after speaking, can also use enter instead of pressing the speak button.
+autodeletes text in textbox after speaking, can also use enter instead of pressing the speak button. Only compatible with windows pcs/laptops i think.
 
 <img width="499" height="430" alt="image" src="https://github.com/user-attachments/assets/45eb772e-5ba4-44a3-8cf4-0ea5c66e154c" />
